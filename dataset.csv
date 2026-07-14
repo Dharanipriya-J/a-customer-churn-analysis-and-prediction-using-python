@@ -1,0 +1,41 @@
+customer_id,gender,tenure,monthly,total,payment_method,churn
+C001,Male,2,750,1500,Credit Card,1
+C002,Female,24,300,7200,Debit Card,0
+C003,Male,5,650,3250,UPI,1
+C004,Female,36,400,14400,Net Banking,0
+C005,Male,1,800,800,Credit Card,1
+C006,Female,48,350,16800,Debit Card,0
+C007,Male,10,500,5000,UPI,0
+C008,Female,60,250,15000,Net Banking,0
+C009,Male,3,720,2160,Credit Card,1
+C010,Female,30,420,12600,UPI,0
+C011,Male,6,600,3600,Debit Card,0
+C012,Female,72,200,14400,Net Banking,0
+C013,Male,4,750,3000,Credit Card,1
+C014,Female,54,330,17820,UPI,0
+C015,Male,8,580,4640,Debit Card,0
+C016,Female,40,410,16400,Net Banking,0
+C017,Male,2,770,1540,Credit Card,1
+C018,Female,28,390,10920,UPI,0
+C019,Male,7,620,4340,Debit Card,0
+C020,Female,65,240,15600,Net Banking,0
+C021,Male,9,540,4860,Credit Card,0
+C022,Female,50,310,15500,UPI,0
+C023,Male,3,690,2070,Debit Card,1
+C024,Female,45,360,16200,Net Banking,0
+C025,Male,11,520,5720,Credit Card,0
+C026,Female,70,230,16100,UPI,0
+C027,Male,6,610,3660,Debit Card,0
+C028,Female,38,405,15390,Net Banking,0
+C029,Male,4,710,2840,Credit Card,1
+C030,Female,55,320,17600,UPI,0
+C031,Male,5,640,3200,Debit Card,0
+C032,Female,62,260,16120,Net Banking,0
+C033,Male,12,510,6120,Credit Card,0
+C034,Female,80,210,16800,UPI,0
+C035,Male,3,730,2190,Debit Card,1
+C036,Female,42,395,16590,Net Banking,0
+C037,Male,6,605,3630,Credit Card,0
+C038,Female,58,280,16240,UPI,0
+C039,Male,7,590,4130,Debit Card,0
+C040,Female,75,220,16500,Net Banking,0
